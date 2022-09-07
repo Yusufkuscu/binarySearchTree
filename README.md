@@ -19,8 +19,8 @@ Root 7'dir.
 
 2 root sayısının solunda 3 sayısının solunda yer alır.
 
-    					    7	
-                        /		\			
+                            7
+    				   /  		 \	
                       5           8
                     /   \          \
                    1     6          9
